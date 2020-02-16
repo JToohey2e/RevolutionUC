@@ -7,6 +7,11 @@ def sampleFunction():
 
 
 if ans==2:
+    i=0
+    var=0
+    for i in range(2):
+        var+=i
+        print(var)
     print("True")
     sampleFunction()
 
