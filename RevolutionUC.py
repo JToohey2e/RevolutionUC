@@ -3,7 +3,7 @@ ans=input("What is answer?")
 ans=int(ans)
 #Sample Function
 def sampleFunction():
-    print("true")
+    print("tgfhfgfhgfhe")
 
 
 if ans==2:
