@@ -8,7 +8,7 @@ def sampleFunction():
 
 if ans==2:
     i=2
-    var=0
+    var=8
     for i in range(2):
         var+=i
         print(var)
